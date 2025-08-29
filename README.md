@@ -1,12 +1,44 @@
-# React + Vite
+# 🌐 3D Developer Portfolio  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern **3D Developer Portfolio** built from scratch to showcase skills, projects, and creativity.  
+This portfolio highlights my work in **Web Development & Design** with smooth animations, interactive 3D elements, and a responsive UI.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features  
+- 🎨 **3D Design** — Built using React Three Fiber & Drei for interactive 3D models.  
+- ⚡ **Fast & Lightweight** — Powered by React + Vite for blazing-fast builds.  
+- 🌀 **Smooth Animations** — Framer Motion for transitions and engaging user interactions.  
+- 📱 **Responsive Styling** — TailwindCSS for a clean, mobile-friendly UI.  
+- 🧩 **Modern UI Components** — Designed with Aceternity UI + Magic UI.  
+- 📬 **Working Contact Form** — Integrated with EmailJS to handle real-time messages.  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack  
+**Frontend:** React, Vite, TailwindCSS  
+**3D & Animations:** Three.js, React Three Fiber, Drei, Framer Motion  
+**UI/UX:** Aceternity UI, Magic UI  
+**Communication:** EmailJS  
+
+---
+
+## 🚀 Getting Started  
+
+1. Clone this repository
+```
+git clone https://github.com/Krushnaapatil/Portfolio.git
+cd portfolio
+```
+2. Install dependencies
+```
+npm install
+```
+3. Run locally
+```
+npm run dev
+```
+4. Build for production
+```
+npm run build
+```
