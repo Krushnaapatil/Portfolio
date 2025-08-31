@@ -44,6 +44,7 @@ function App() {
         <Footer />
       </div>
       <Analytics />
+      <SpeedInsights />
     </BrowserRouter>
     
   );
